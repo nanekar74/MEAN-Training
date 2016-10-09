@@ -1,0 +1,78 @@
+.c1	{
+		background:url("./images/imgquades.jpg");
+		background-size: 1400px 200px;
+		background-repeat:no-repeat;
+		
+		width:100%;
+		height:185px;
+		color:white;
+			
+	 }
+	 
+	 
+.c2	{
+			background-color:#DCDCDC;
+			text-align:left;
+			width:20%;
+			height:790px;
+			float:left;
+		
+	
+
+	}	
+
+.c3	{
+	background-color:white;
+			width:80%;
+	height:400px;
+	float:right;
+	 margine:40px;
+	 overflow-y:scroll;
+	 overflow-x:hidden;
+	
+		
+		}	
+		
+		
+.c4{
+	width:100%;
+	height:80px;
+	
+	background-color:black;
+	color:red;
+	
+	}		
+ul {
+
+	
+	line-height:4px;	
+	 list-style-type:url("imgquades.jpg");
+	
+	}
+	
+	
+th{
+						background-color:green;
+						text-align:left;
+						font-size:40px;
+						color:white;
+						border:solid;
+					
+					}
+			
+		
+tr ,table, td{
+	 margine:4px;
+	 border:ridge;
+	
+	}
+	
+a:hover{
+		background-color:cyan;
+		color:red;
+}	
+
+a:active{
+		background-color:blue;
+		color:white;
+	}

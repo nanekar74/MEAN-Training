@@ -1,0 +1,11 @@
+table{
+		height:100px;
+		width:600px;
+		border-style:dotted;
+		outline-style:dashed;
+		background-color:pink;
+		margin:200px;
+		padding:50px;
+		color:blue;
+		text-align:center;
+	}

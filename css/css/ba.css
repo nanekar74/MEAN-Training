@@ -1,0 +1,8 @@
+ body{
+		background-color:cyan;
+		background-image:url("tiger.jpg");
+		background-repeat:no-repeat;
+		background-position:right top;
+		margine-right:400px;
+		background-attachment:fixed;	
+		}
