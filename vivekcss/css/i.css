@@ -1,0 +1,52 @@
+div.img:hover{
+				border:2px solid black;
+	
+	
+				}
+
+
+
+
+
+	div.img img{
+		
+				width:100%;
+				height:auto;
+		
+		
+				} 
+.img  {
+	      float:left;
+		  margin:5px;
+		   width:180px;
+		  border:1px solid #ccc;
+		  
+	
+	 }
+	 
+.txt  {
+			text-align:center;
+			padding:15px;
+			margin:5px;
+			color:red;
+	
+		
+	}	 
+		 
+.t  {
+			text-align:center;
+			padding:5px;
+			margin:5px;
+			color:red;
+	
+		
+	}	 
+.tx {
+			text-align:center;
+			padding:5px;
+			margin:5px;
+			color:red;
+	
+		
+	}
+	
